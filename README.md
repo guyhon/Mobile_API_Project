@@ -1,43 +1,30 @@
-# Spaeship Game 
-  This is a 2D spaceship game built with Java and Android SDK.
-  
-  Welcome to the thrilling world of Spaeship Game - an exhilarating adventure where you pilot a spaceship through a asteroid field and collecting coins to earn points. 
-  The longer you survive in space the more points you get, while each coin you collect adds you 10 points. However, be warned! Crashing into an asteroid will cost you a       life, and you only have 3 lives in each game.
-  
-  The game includes two speed mods: fast for experienced pilots and slow for those seeking to gain confidence. In any situation, you can choose whether to play using         buttons or the sensors of the device in your hand.
-  
-  Once you finish the game, you can check the scoreboard to view the top ten scores. Additionally, the score Table will display your location on the map, and each click on   a score will reveal the location of where that score was achieved. All of this adds an extra layer of interest to the game.
-  
+# API Fruit Nutrition App 
+This app connects to the free API provided by FruityVice to retrieve information about various fruits, including their calorie, protein, and sugar content. 
+Users can utilize this app to access nutritional data for different fruits and sort them based on these nutritional values.
 
-# Video Of The Game
- https://www.youtube.com/shorts/HGkpGzXQ4o4
+# Features:
+1) API Integration: Utilizes FruityVice API to fetch information about fruits' nutritional values.
+2) Nutritional Data: Provides data on calories, protein, and sugar content for each fruit.
+3) Sorting Functionality: Enables users to sort fruits based on their calorie, protein, or sugar content.
   
-
-# Installation
-  To install the game and run it on Android Studio clone the game from the following link:
-  git clone: https://github.com/guyhon/Spaceship_Game.git
-
 # Launch
-  To start playing click on the application icon on your device. You will be taken to the Menu, where you should choose If you want to play fast or slow, And with the help   of the switch you can choose between playing with buttons or playing with sensors. In addition, you can also go directly to the score table.
+To start Clone or download the repository to your local machine.
+Install any necessary dependencies.
+Run the app.
+Use the interface to access nutritional information for various fruits and sort them according to your preferences.
+  
 
   <img src=https://github.com/guyhon/Mobile_API_Project/assets/74957640/2a6d2c20-5430-4340-a466-91e298505a04
   width="270" height="450" border="10" />
   </a>
-  <img src=https://github.com/guyhon/Spaceship_Game/assets/74957640/9c72d68d-2fbe-4779-a201-e7576a7def93
+  <img src=https://github.com/guyhon/Mobile_API_Project/assets/74957640/285df367-6055-4e54-839f-9bc1f153e7bc
   width="270" height="450" border="10" />
   </a>
   
 
 # Technologies Used
-  Programming language: The game was created using Java in Android Studio.
-
-  Libraries: The game uses the Gson library to save data using Shared Preferences.
-
-  APIs: The game utilizes the Google Maps API to display locations of records on a map.
-
-  Build tools: Gradle is used to build and package the game for distribution.
-
-  Platforms and devices: The game is suitable for Android devices.
+  
+  Libraries: The game uses the Gson library, Retrofit library.
 
 # Contributors
   Guy Honen guyh146@gmail.com
